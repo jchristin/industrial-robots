@@ -1,0 +1,12 @@
+{
+  "name": "industrial-robots",
+  "version": "1.0.0",
+  "description": "List of all industrial robots in JSON format.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julbaxter/industrial-robots.git"
+  },
+  "author": "Julien Christin <jul.christin@gmail.com>",
+  "license": "MIT"
+}

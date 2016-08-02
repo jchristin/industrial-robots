@@ -1,0 +1,329 @@
+[{
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 54,
+	"model": "IRB 1200-5/0.9",
+	"payload": 5,
+	"repeatability": 0.06,
+	"reach": 901
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 52,
+	"model": "IRB 1200-7/0.7",
+	"payload": 7,
+	"repeatability": 0.06,
+	"reach": 703
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 25,
+	"model": "IRB 120",
+	"payload": 3,
+	"repeatability": 0.01,
+	"reach": 580
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 98,
+	"model": "IRB 140",
+	"payload": 6,
+	"repeatability": 0.03,
+	"reach": 810
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 225,
+	"model": "IRB 1400",
+	"payload": 5,
+	"repeatability": 0.05,
+	"reach": 1440
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 225,
+	"model": "IRB 1400H",
+	"payload": 11,
+	"repeatability": 0.004,
+	"reach": 1282
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 98,
+	"model": "IRB 140T",
+	"payload": 5,
+	"repeatability": 0.03,
+	"reach": 810
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 225,
+	"model": "IRB 1410",
+	"payload": 5,
+	"repeatability": 0.05,
+	"reach": 1444
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 350,
+	"model": "IRB 1500",
+	"payload": 5,
+	"repeatability": 0.05,
+	"reach": 1450
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 170,
+	"model": "IRB 1520ID",
+	"payload": 4,
+	"repeatability": 0.05,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 250,
+	"model": "IRB 1600",
+	"payload": 6,
+	"repeatability": 0.05,
+	"reach": 1200
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 250,
+	"model": "IRB 1600ID",
+	"payload": 4,
+	"repeatability": 0.05,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 250,
+	"model": "IRB 1600ID",
+	"payload": 4,
+	"repeatability": 0.05,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 257,
+	"model": "IRB 1660ID",
+	"payload": 6,
+	"repeatability": 0.05,
+	"reach": 1550
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 350,
+	"model": "IRB 2000",
+	"payload": 10,
+	"repeatability": 0.1,
+	"reach": 1542
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 380,
+	"model": "IRB 2400",
+	"payload": 12,
+	"repeatability": 0.27,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 380,
+	"model": "IRB 2400/10",
+	"payload": 10,
+	"repeatability": 0.004,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 380,
+	"model": "IRB 2400/16",
+	"payload": 16,
+	"repeatability": 0.004,
+	"reach": 1500
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 380,
+	"model": "IRB 2400L",
+	"payload": 7,
+	"repeatability": 0.06,
+	"reach": 1800
+}, {
+	"axes": 4,
+	"brand": "ABB",
+	"mass": 340,
+	"model": "IRB 260",
+	"payload": 30,
+	"repeatability": 0.1,
+	"reach": 1520
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 280,
+	"model": "IRB 2600",
+	"payload": 12,
+	"repeatability": 0.06,
+	"reach": 1650
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 276,
+	"model": "IRB 2600ID",
+	"payload": 15,
+	"repeatability": 0.27,
+	"reach": 1850
+}, {
+	"axes": 4,
+	"brand": "ABB",
+	"mass": 140,
+	"model": "IRB 340",
+	"payload": 1,
+	"repeatability": 0.1,
+	"reach": 1500
+}, {
+	"axes": 4,
+	"brand": "ABB",
+	"mass": 120,
+	"model": "IRB 360",
+	"payload": 3,
+	"repeatability": 0.1,
+	"reach": 1130
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 980,
+	"model": "IRB 4400",
+	"payload": 45,
+	"repeatability": 0.07,
+	"reach": 1960
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 900,
+	"model": "IRB 4400/60",
+	"payload": 60,
+	"repeatability": 0.15,
+	"reach": 1960
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 980,
+	"model": "IRB 4400/L10",
+	"payload": 10,
+	"repeatability": 0.1,
+	"reach": 2550
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 980,
+	"model": "IRB 4450S",
+	"payload": 30,
+	"repeatability": 0.1,
+	"reach": 2400
+}, {
+	"axes": 4,
+	"brand": "ABB",
+	"mass": 925,
+	"model": "IRB 460",
+	"payload": 110,
+	"repeatability": 0.11,
+	"reach": 2400
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 435,
+	"model": "IRB 4600",
+	"payload": 60,
+	"repeatability": 0.06,
+	"reach": 2050
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 250,
+	"model": "IRB 52",
+	"payload": 7,
+	"repeatability": 0.15,
+	"reach": 475
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1825,
+	"model": "IRB 6000",
+	"payload": 120,
+	"repeatability": 0.4,
+	"reach": 2400
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1910,
+	"model": "IRB 6400",
+	"payload": 200,
+	"repeatability": 0.1,
+	"reach": 2900
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 2390,
+	"model": "IRB 6400RF",
+	"payload": 200,
+	"repeatability": 0.15,
+	"reach": 2390
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1700,
+	"model": "IRB 6600",
+	"payload": 225,
+	"repeatability": 0.1,
+	"reach": 2550
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 900,
+	"model": "IRB 6620",
+	"payload": 150,
+	"repeatability": 0.1,
+	"reach": 2200
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1310,
+	"model": "IRB 6640",
+	"payload": 180,
+	"repeatability": 0.07,
+	"reach": 2550
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1750,
+	"model": "IRB 6650",
+	"payload": 200,
+	"repeatability": 0.07,
+	"reach": 2750
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1750,
+	"model": "IRB 6650-125",
+	"payload": 125,
+	"repeatability": 0.1,
+	"reach": 3200
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 1250,
+	"model": "IRB 6700",
+	"payload": 235,
+	"repeatability": 0.04,
+	"reach": 2650
+}, {
+	"axes": 6,
+	"brand": "ABB",
+	"mass": 2450,
+	"model": "IRB 7600",
+	"payload": 500,
+	"repeatability": 0.09,
+	"reach": 2550
+}]
